@@ -211,12 +211,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://180.141.28.176:4022/rtp/239.81.0.242:4056?Cf=cfss.cc
-#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
+
 
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视",江苏卫视
@@ -235,18 +230,7 @@ https://livednow.com/migu/738910838?sign=gAAAAABmsk8x2HDmErKIlxLep9PS7kpAilipXmB
 https://livednow.com/migu/738906825?sign=gAAAAABmsk8x8Oj_VQLt-12qEpDJtNTUsA9bxnTD1Y3A9S47l99sOxzpRtLNBeupH8_HM3aZBayXDLYf3LwZUnf--SRyfg5VCMSe8B_GLlaVbNhjmAlzIqJAG2231qbx7u_ZE-9_j6RHotGVV5i4LA9XfrehCQ4TyGv7qfAK7Q48JsRoFfnKDG8CRQxZHgbhDQuBkemh11gft-4trf22q32dDACiG1vnUQ%3D%3D
 
 
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="少儿",嘉佳卡通
-http://180.141.28.176:4022/rtp/239.81.0.64:4056?Cf=cfss.cc
-#EXTINF:-1,tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://epg.v1.mk/logo/卡酷动画.png" group-title="少儿",卡酷动画
-http://180.141.28.176:4022/rtp/239.81.0.62:4056?Cf=cfss.cc
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="少儿",金鹰卡通
-http://180.141.28.176:4022/rtp/239.81.0.61:4056?Cf=cfss.cc
-#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.v1.mk/logo/新动漫.png" group-title="少儿",新动漫
-http://180.141.28.176:4022/rtp/239.81.0.235:4056?Cf=cfss.cc
-#EXTINF:-1,tvg-id="少儿动画" tvg-name="少儿动画" tvg-logo="https://epg.v1.mk/logo/少儿动画.png" group-title="少儿",少儿动画
-http://180.141.28.176:4022/rtp/239.81.0.82:4056?Cf=cfss.cc
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="少儿",动漫秀场
-http://180.141.28.176:4022/rtp/239.81.0.68:4056?Cf=cfss.cc
+
 #EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.v1.mk/logo/黑莓动画.png" group-title="少儿",黑莓动画
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.v1.mk/logo/优漫卡通.png" group-title="少儿",优漫卡通
