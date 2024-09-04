@@ -67,7 +67,7 @@ https://livednow.com/migu/608807419?sign=gAAAAABmsk8xu-B43QPT4rUHylVVHypT_6EUv2X
 #EXTINF:-1 tvg-id="CCTV4-美洲" tvg-name="CCTV4 美洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-美洲.png" group-title="央视",CCTV4 美洲
 https://livednow.com/migu/608807416?sign=gAAAAABmsk8x3KqcoxFTFjN2XD6V7YGT5WwyxZmgyVTeRf1VgWaf2lGmZM08QlL8ZQGSia7B3C2TUwFxC9IvSjKiPMa5J87h29eTY_3B8LF1FHnzHAqH3aXniUfhruDRVqB0PEVTg210T2QIUbxkB0szKjUdanXrMDholVPxbVA0rrooUHsodaXiSqw1R2aos7Kd44O-4-1RK4LWp1vXIJ72zcnFmbjsoQ%3D%3D
 
-#EXTINF:-1,tvg-id="湖南卫视4" tvg-name="湖南卫视4" tvg-logo="https://epg.v1.mk/logo/湖南卫视4.png" group-title="卫视",湖南卫视（超高码率）
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视4.png" group-title="卫视",湖南卫视
 http://nas.0731wang.com:14022/rtp/239.76.253.100:9000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
